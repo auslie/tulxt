@@ -1,2 +1,1 @@
-# 1ctgoogle
-1 Click To Google
+# The Useless Extension (DEPRECATED)
